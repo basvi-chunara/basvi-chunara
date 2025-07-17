@@ -3,7 +3,7 @@
 #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hi, I'm Basvi!  
 - 🎓  Data Science & Analytics enthusiast | Undergrad @ University of Alberta<br/>
 - 📊 Eager to grow in tech & solve real-world problems<br/>
-- 📫 You can follow more of my journey on [LinkedIn](https://www.linkedin.com/in/basvichunara/](https://www.linkedin.com/in/basvichunara/ )<br/>
+- 📫 You can follow more of my journey on [LinkedIn](https://www.linkedin.com/in/basvichunara/)<br/>
 - 📧 Feel free to reach out at basvi20chunara@gmail.com<br/>
 
 
