@@ -4,6 +4,7 @@
 - 🎓  Data Science & Analytics enthusiast | Undergrad @ University of Alberta<br/>
 - 📊 Eager to grow in tech & solve real-world problems<br/>
 - 📫 You can follow more of my journey on [LinkedIn](https://www.linkedin.com/in/basvichunara/)<br/>
+- Academic Projects can be found at my university-linked [GitHub account](https://github.com/basviyog)!!<br/>
 - 📧 Feel free to reach out at basvi20chunara@gmail.com<br/>
 
 
